@@ -1,1 +1,1 @@
-[image](dino.git)
+![image](https://github.com/NameHtz/NameHtz/blob/master/dino.gif)
